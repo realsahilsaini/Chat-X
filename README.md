@@ -1,2 +1,3 @@
 # Chat-X
-Chat with anything!
+
+Multi-modal chat app.
