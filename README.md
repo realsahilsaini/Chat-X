@@ -1,3 +1,3 @@
 # Chat-X
 
-Multi-modal chat app using stremlit.
+### Multi-modal chat app using Streamlit.
